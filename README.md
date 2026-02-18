@@ -1,16 +1,55 @@
-## Hi there 👋
+# David Ilorah
 
-<!--
-**Chibey-max/Chibey-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web and Blockchain Developer focused on Ethereum Smart Contracts
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I build secure and efficient smart contracts using Solidity and modern Ethereum tools.
+- I also build decentralized applications from smart contract to frontend.
+
+Currently part of a Blockchain Development Bootcamp where I am building real-world decentralized applications.
+
+## Tech Stack
+- HTML
+- CSS
+- Solidity  
+- Hardhat  
+- TypeScript  
+- JavaScript  
+- Ethers.js  
+- Git & GitHub  
+
+
+## Current Focus
+- Web Development
+- Smart Contract Security
+- DeFi Protocol Development
+- Ethereum Development
+
+## Projects
+
+Escrow Smart Contract  
+Auction Smart Contract  
+Timelocked Vault Contract  
+Crowdfunding Smart Contract  
+
+### Frontend
+Weather App
+Guess The Number Game
+Pig Game  
+Interactive Web Apps  
+Responsive Websites  
+
+More projects coming...
+
+## Goals
+
+Become a world-class Blockchain Engineer and Web Developer
+Contribute to open source  
+Work on real-world Web3 systems  
+
+## Contact
+
+GitHub: https://github.com/Chibey-max
+Email: ilorahdavid126@gmail.com
+
