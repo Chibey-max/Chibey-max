@@ -1,55 +1,120 @@
-# 0x_Dave.
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=David+Ilorah;Smart+Contract+Developer;Solidity+Engineer;Web3+Builder;Foundry+Testing+Specialist&center=true&width=600&height=45">
+</p>
 
-Web and Blockchain Developer focused on Ethereum Smart Contracts
+<h1 align="center">👋 Hi, I'm Dave</h1>
+<h3 align="center">Smart Contract Developer | Solidity | Ethereum</h3>
 
-## About Me
+---
 
-- I build secure and efficient smart contracts using Solidity and modern Ethereum tools.
-- I also build decentralized applications from smart contract to frontend.
+# 🚀 About Me
 
-Currently part of a Blockchain Development Bootcamp where I am building real-world decentralized applications.
+- 🔭 Building **secure Ethereum smart contracts**
+- 🧪 Writing **advanced Foundry tests**
+- ⚙️ Learning **smart contract security**
+- 🧠 Interested in **DeFi protocol architecture**
+- 🌍 Contributing to **open source Web3 projects**
 
-## Tech Stack
-- HTML
-- CSS
-- Solidity  
-- Hardhat  
-- TypeScript  
-- JavaScript  
-- Ethers.js  
-- Git & GitHub  
+---
 
+# 🛠 Tech Stack
 
-## Current Focus
-- Web Development
-- Smart Contract Security
-- DeFi Protocol Development
-- Ethereum Development
+### Blockchain
+![Solidity](https://skillicons.dev/icons?i=solidity)
+![Ethereum](https://skillicons.dev/icons?i=ethereum)
 
-## Projects
+### Development
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Javascript](https://skillicons.dev/icons?i=javascript)
 
-Escrow Smart Contract  
-Auction Smart Contract  
-Timelocked Vault Contract  
-Crowdfunding Smart Contract  
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
-### Frontend
-Weather App
-Guess The Number Game
-Pig Game  
-Interactive Web Apps  
-Responsive Websites  
+---
 
-More projects coming...
+# 📊 GitHub Stats
 
-## Goals
+<p align="center">
 
-Become a world-class Blockchain Engineer and Web Developer
-Contribute to open source  
-Work on real-world Web3 systems  
+<img src="https://github-readme-stats.vercel.app/api?username=Chibey-max&show_icons=true&theme=tokyonight"/>
 
-## Contact
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chibey-max&theme=tokyonight"/>
 
-GitHub: https://github.com/Chibey-max
-Email: ilorahdavid126@gmail.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chibey-max&layout=compact&theme=tokyonight"/>
 
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+### ⏳ Timelock Smart Contract
+A Solidity contract that locks ETH until a specific unlock time.
+
+**Features**
+
+- time-based withdrawals  
+- multiple vaults  
+- secure ETH transfers  
+- Foundry unit tests  
+
+---
+
+### 🏦 TimelockV2
+
+Improved vault contract architecture with:
+
+- active vault tracking  
+- emergency withdrawal  
+- event emission  
+- gas optimized logic  
+
+---
+
+### 🧪 Foundry Smart Contract Tests
+
+A testing suite demonstrating:
+
+- unit testing  
+- event testing  
+- revert testing  
+- fuzz testing  
+
+---
+
+### 🔐 Smart Contract Security Experiments
+
+Research projects exploring:
+
+- reentrancy protection  
+- gas optimization  
+- secure ETH transfers  
+- Solidity security patterns  
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+🌐 Connect With Me
+
+🐦 Twitter
+https://x.com/Daveilorah
+
+📧 Email
+ilorahdavid126@gmail.com
+
+💻 GitHub
+https://github.com/Chibey-max
+
+---
+
+⭐️ From [Chibey-max](https://github.com/Chibey-max)
